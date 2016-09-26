@@ -1,0 +1,43 @@
+{
+  "name": "react-webpack-1.0.0",
+  "version": "1.0.0",
+  "description": "react-webpack-example",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^3.1.0",
+    "babel": "^6.3.26",
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "css-loader": "^0n.23.1",
+    "file-loader": "^0.8.5",
+    "node-sass": "^3.4.2",
+    "path": "^0.12.7",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zhanwang.ye@zhongan.com"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "zhanwang.ye",
+  "license": "MIT"
+}
